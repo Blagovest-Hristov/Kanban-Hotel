@@ -21,6 +21,7 @@ This repository contains tasks for implementing various pages of a website. The 
 - Collaborate and communicate effectively to ensure smooth progress.
 
 ### Folder Structure:
+```
 project/
 │
 ├── css/
@@ -34,6 +35,7 @@ project/
 ├── about.html
 ├── contact.html
 └── register.html
+```
 
 ### Submission Guidelines:
 - Once completed, create a pull request to merge your changes into the main branch.
