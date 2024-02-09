@@ -20,23 +20,6 @@ This repository contains tasks for implementing various pages of a website. The 
 - Ensure that both HTML and CSS files are implemented for each page.
 - Collaborate and communicate effectively to ensure smooth progress.
 
-### Folder Structure:
-```
-project/
-│
-├── css/
-│ ├── home.css
-│ ├── about.css
-│ ├── contact.css
-│ └── register.css
-│
-└── pages/
-├── home.html
-├── about.html
-├── contact.html
-└── register.html
-```
-
 ### Submission Guidelines:
 - Once completed, create a pull request to merge your changes into the main branch.
 - Mention the respective task numbers in the pull request description for easy tracking.
